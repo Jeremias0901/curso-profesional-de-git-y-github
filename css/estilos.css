@@ -5,28 +5,36 @@ body{
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: rgb(66, 66, 66);
 }
 #cabecera #tagline{
-    padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: .8em;
 }
 #cabecera{
-    background-color: #33a;
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
+    display: flex;
+    align-items: center;
+    background-color: rgb(57, 75, 135);
     color: white;
     font-weight: bold;
+    font-size: 2em;
     margin: 0;
     padding: .5em;
+    gap: 10px;
 }
 #container{
     width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #ddd;
-    margin: 0 auto;
+    text-align: justify;
+    border: 1px solid rgb(126, 126, 126);
+    margin: auto;
+    background-color: #ddd;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
 }
 
 #container h1{
-    font-size: 20px;
+    font-size: 40px;
+}
+#post{
+    padding: 10px 30px;
+    font-size: 25px;
 }
