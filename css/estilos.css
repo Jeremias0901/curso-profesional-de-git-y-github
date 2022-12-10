@@ -48,3 +48,12 @@ body{
     margin-top: 20px;
     border-top: solid black 3px;
 }
+
+.link__account{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.link__img{
+    width: 35px;
+}
