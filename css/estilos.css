@@ -48,3 +48,18 @@ body{
     margin-top: 20px;
     border-top: solid black 3px;
 }
+
+.account{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.account__img{
+    width: 35px;
+}
+.account__text{
+    text-decoration: none;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.7em;
+}
