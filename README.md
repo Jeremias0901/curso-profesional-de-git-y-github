@@ -41,7 +41,7 @@ GitHub - como: "img/github.svg"
 
 GitHub - en internet
 
-[![GitHub](https://raw.githubusercontent.com/Jeremias0901/curso-profesional-de-git-y-github/9d1ff8e49e72c4a3ad6325d75770189f0318e67b/img/github.svg)](https://raw.githubusercontent.com/Jeremias0901/curso-profesional-de-git-y-github/9d1ff8e49e72c4a3ad6325d75770189f0318e67b/img/github.svg)
+[![GitHub](https://raw.githubusercontent.com/Jeremias0901/curso-profesional-de-git-y-github/9acfc337d7f4c743a0c1b4e5545c6d1f659fdbdf/img/github.svg)
 
 Emojis
 
