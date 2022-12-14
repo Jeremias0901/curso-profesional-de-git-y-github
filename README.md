@@ -52,3 +52,4 @@ Emojis
 > casi siempre hay que dejar una linea vacia en MarkDown
 
 Este es un cambio para practicar el comando git cherry-pick
+Este es otro cambio para practicar el comando git cherry-pick
